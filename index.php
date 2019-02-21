@@ -1,5 +1,6 @@
 <?php
 
-echo "Teste de Alteração"
+echo "Hello World"
+echo "Olá Mundo"  
 
 ?>
